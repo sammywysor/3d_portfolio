@@ -169,7 +169,7 @@ import {
       link: "https://www.freecodecamp.org/certification/fcc5dc2e7e1-59d2-4f67-b3db-fd5389ae2c26/responsive-web-design",
     },
     {
-      certification: "Responsive Web design",
+      certification: "UI/UX Development",
       institution: "Great Learning",
       year: "2023",
       image: UI,
